@@ -1,3 +1,3 @@
 # demo
 This is my first git repository
-Author - Jitesh pardeshi
+Author - Jitesh Raju pardeshi
